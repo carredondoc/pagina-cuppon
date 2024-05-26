@@ -1,0 +1,46 @@
+:root {
+  --bs-body-font-family: "Roboto", sans-serif;
+  --bs-body-font-weight: 300;
+  --bs-body-font-style: normal;
+}
+
+
+img {
+  width: 86px;
+}
+
+.bg-personalizado{
+  background-color: #28A745;
+}
+.valoresAntiguos{
+
+    color: rgb(158, 158, 158);
+    text-decoration:line-through;
+}
+
+.valoresNuevos{
+
+    color: #28A745;
+    font-weight: bold;
+    font-size: 1.3rem;
+    margin-left: 1rem;
+    font-weight: 500;
+}
+
+.form-control{
+
+    line-height: 1rem;
+    font-weight: 500;
+}
+
+.forma-correo{
+  background-color: #28A745;
+}
+footer img{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  
+}
